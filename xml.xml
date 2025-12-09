@@ -2,6 +2,52 @@
 <Carga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Imoveis>
     <Imovel>
+      <CodigoImovel>458</CodigoImovel>
+      <TituloAnuncio>TERRENO NOVA DESCOBERTA</TituloAnuncio>
+      <Uf>SC</Uf>
+      <Cidade>TIJUCAS</Cidade>
+      <Bairro>Nova Descoberta</Bairro>
+      <Endereco>Rua Projetada</Endereco>
+      <Numero>23</Numero>
+      <Complemento>Terreno</Complemento>
+      <Latitude>-27.261275931790415</Latitude>
+      <Longitude>-48.710983910334890</Longitude>
+      <PrecoVenda>150000</PrecoVenda>
+      <precoAluguel>150000</precoAluguel>
+      <precoTemporada>150000</precoTemporada>
+      <AreaTotal>255</AreaTotal>
+      <Fotos>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3399lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3394lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3395lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3396lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3397lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3398lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3400lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3401lg.jpg</URLArquivo>
+        </Foto>
+        <Foto>
+          <URLArquivo>http://localhost/Yupi/content/zHy5TGqUX01GOveZ/img/products_imgs/458/3402lg.jpg</URLArquivo>
+        </Foto>
+      </Fotos>
+      <SubTipoImovel>Terreno</SubTipoImovel>
+    </Imovel>
+    <Imovel>
       <CodigoImovel>899</CodigoImovel>
       <TituloAnuncio>SÍTIO EMANOEL</TituloAnuncio>
       <Uf>SC</Uf>
